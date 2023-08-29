@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/wellington-costaVell/)
 
-<H2>Linguagens de Programação e Marcação</h2>
+<H2>Linguagens de Programação</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
@@ -12,7 +12,7 @@
 
 
 
-<h2>Linguagens de Programação e Marcação mais Usadas</H2>
+<h2>Linguagens de Programação mais Usadas</H2>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WellingtonVell&bg_color=000&border_color=FFF&title_color=FFF&text_color=FFF)
 
